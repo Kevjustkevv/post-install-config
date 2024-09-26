@@ -209,3 +209,5 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 <img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 Second Lab Done?? GREAT, proud of you! 😁</i></b></p>
+
+Want to continue?? Great! Click [here](https://github.com/kevjustkevv/ticket-lifecycle) 
