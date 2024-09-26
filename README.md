@@ -210,4 +210,6 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 Second Lab Done?? GREAT, proud of you! 😁</i></b></p>
 
-Want to continue?? Great! Click [here](https://github.com/kevjustkevv/ticket-lifecycle) 
+Want to continue?? Great! Click [here](https://github.com/kevjustkevv/ticket-lifecycle)   
+
+"Believe you can, and you’re halfway there." - Anonymous
